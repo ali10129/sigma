@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\bin\Debug\sigma.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\bin\Debug\sigma.exe
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\bin\Debug\sigma.pdb
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\obj\Debug\sigma.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\obj\Debug\sigma.exe
+c:\users\ali\documents\visual studio 2015\Projects\sigma\sigma\obj\Debug\sigma.pdb
